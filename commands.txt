@@ -1,0 +1,6 @@
+cordova create tutorial com.appteam.workshop myportfolio
+cd tutorial
+cordova platform ls
+cordova platform add android
+cordova build android 
+cordova run android
