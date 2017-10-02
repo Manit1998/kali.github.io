@@ -1,0 +1,130 @@
+body{
+	overflow-x: hidden;
+}
+
+.test{
+	padding: 0px;
+	background : gree;
+}
+
+.nav-test{
+		
+}
+
+.header{
+	/*padding: 5%;*/
+	font-size: 22px;
+}
+
+.main-div{
+	background: yello;
+}
+
+.image-div{
+	background: gren;
+}
+.name-div{
+	background : yelow;
+	padding-top: 2%;
+	font-size : 22px;
+}
+
+.desc-div{
+	font: 20px;
+	padding-bottom: 2%;
+}
+
+.skills-div{
+	background-color: #3E2723;
+	padding-bottom: 5%; 
+}
+
+.skill-img>img{
+	display: block;
+	margin: auto;
+	/*width: 50%;*/
+	margin-top: 15px;
+	padding-top: 15px;
+	padding-bottom: 10px;  
+}
+
+.skill-name{
+	text-align: center;
+	font-size: 22px;
+	color: white;
+	font-style: bold;
+	padding-bottom: 10px; 
+}
+
+.skill-heading{
+	text-align: center;
+	font-size: 22px;
+	color: white;
+	font-style: bold;
+	/*text-decoration: underline;*/
+	padding-top: 17px;
+	padding-bottom: 15px;
+}
+
+.skill-desc{
+	text-align: center;
+	font-size: 13px;
+	color: white;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+.personal-div{
+	background-color: #673AB7;
+	/*margin:20px;*/
+	padding-bottom: 6%; 
+
+}
+
+.personal-detail{
+	margin-top: 4%;
+}
+
+.attribute{
+	font: italic bold 15px Georgia, serif;
+	color: white; 
+	background: gren;
+	margin-left: 5%;
+	padding: 2%;
+}
+
+.value{
+	font: italic 15px Georgia, serif;
+	color: white;
+	background: yelow;
+	width: 50%;
+	margin-left: 1%;
+	padding-top: 2%;
+}
+
+.footer{
+	/*background: rgba(0,0,0,0.7);*/
+	height: 100px;
+}
+
+.about-div{
+	
+	/*margin:20px;*/
+	padding-bottom: 6%; 
+	
+}
+
+.contact-icons{
+	margin-top:30px;
+}
+
+.contact-icons>a{
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.copyright{
+	color: blue;
+	margin-top: 20px;
+}
+
